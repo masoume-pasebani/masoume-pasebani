@@ -1,4 +1,3 @@
-![matrix](https://user-images.githubusercontent.com/81412933/143331146-b3bbc551-34c1-4614-9690-c084200b341d.gif)
 ### Hi there ^_^
 
 <!--
