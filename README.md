@@ -1,4 +1,4 @@
-### Hi there 👋I`m Masi
+### Hi there ^_^
 
 <!--
 **masoume-pasebani/masoume-pasebani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
