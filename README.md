@@ -4,7 +4,7 @@
 
 
 
-  ![matrix](https://user-images.githubusercontent.com/81412933/143332000-7e8dcb7c-ab1e-4029-bf07-d57bad670f79.gif)
+
 
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: mwsmee@gmail.com
