@@ -1,12 +1,7 @@
 ### Hi there👋
 
-
-
-
-
-
-
-- 🌱 I’m currently learning ...
+I'm a backend developer and AI enthusiast passionate about creating intelligent, scalable, and high-performance applications. With a strong foundation in Django, machine learning, and data-driven decision-making, I love working on innovative projects that push the boundaries of technology.
+I hold a bachelor’s degree from Shahid Beheshti University, where I developed a deep interest in AI, machine learning, and backend development. My journey has been fueled by curiosity, hands-on projects, and continuous learning.
    <!--                              
 **masoume-pasebani/masoume-pasebani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
