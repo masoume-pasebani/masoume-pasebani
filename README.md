@@ -33,6 +33,7 @@ I hold a bachelor’s degree from Shahid Beheshti University, where I developed 
 </p>
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=masoume123&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 GitHub Stats
 
@@ -44,5 +45,4 @@ I hold a bachelor’s degree from Shahid Beheshti University, where I developed 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoume-pasebani&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=masoume123&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
