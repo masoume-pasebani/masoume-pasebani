@@ -12,7 +12,7 @@ I hold a bachelor’s degree from Shahid Beheshti University, where I developed 
   <a href="https://github.com/masoume-pasebani/Generating-OCEL-from-CPN-files" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   </a>
-  <a href="https://github.com/masoume-pasebani/ML_NLP_project" target="_blank>
+  <a href="https://github.com/masoume-pasebani/ML_NLP_project" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
   </a>    
   <a href="https://github.com/masoume-pasebani/project_of_roshan_company" target="_blank">
