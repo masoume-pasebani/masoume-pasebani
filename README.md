@@ -22,3 +22,9 @@ I hold a bachelor’s degree from Shahid Beheshti University, where I developed 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   </a>
 </p>
+
+
+### 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoumepasebani&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
