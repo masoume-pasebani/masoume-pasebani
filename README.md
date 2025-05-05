@@ -33,7 +33,6 @@ I hold a bachelor’s degree from Shahid Beheshti University, where I developed 
 </p>
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=masoume123&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 GitHub Stats
 
