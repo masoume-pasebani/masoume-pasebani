@@ -52,15 +52,11 @@ I hold a bachelor’s degree from Shahid Beheshti University, where I developed 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masoume123&show_icons=true&theme=radical" alt="Masoume's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=masoume-pasebani&show_icons=true&theme=radical" alt="Masoume's GitHub Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masoume123&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masoume-pasebani&theme=radical" alt="GitHub Streak"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoume123&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoume-pasebani&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
 </p>
 
----
 
-### 🚀 Fun Fact
-
-I love building intelligent systems that make real-world impact — and I enjoy every step of the backend + AI development journey!
