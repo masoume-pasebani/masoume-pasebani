@@ -37,8 +37,7 @@ I hold a bachelor’s degree from Shahid Beheshti University, where I developed 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masoume-pasebani&show_icons=true&theme=radical" alt="Masoume's GitHub Stats"/>
-  <br>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=masoume-pasebani&theme=radical" alt="GitHub Streak"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoume-pasebani&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
