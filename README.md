@@ -30,16 +30,6 @@ I hold a bachelor’s degree from Shahid Beheshti University, where I developed 
 
 
 
-<h1 align="center">Hi there 👋, I'm Masoume Pasebani</h1>
-
-- 🎓 Bachelor's in Computer Engineering from Shahid Beheshti University  
-- 💻 Backend Developer (Django, REST API, PostgreSQL)  
-- 🤖 AI & Machine Learning Enthusiast (ASR, NLP)  
-- 🧠 Working on Persian ASR & Tweet Emotion Detection  
-- 📫 How to reach me: masoume.email@example.com
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="left">
