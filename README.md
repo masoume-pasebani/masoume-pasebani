@@ -24,22 +24,15 @@ I hold a bachelor’s degree from Shahid Beheshti University, where I developed 
 </p>
 
 
-### 📊 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoume-pasebani&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-### 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://github.com/masoume123/persian-asr-project">
+  <a href="https://github.com/masoume-pasebani/persian-asr-project">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   </a>
-  <a href="https://github.com/masoume123/django-ai-backend">
+  <a href="https://github.com/masoume-pasebani/django-ai-backend">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
   </a>
-  <a href="https://github.com/masoume123/sql-api">
+  <a href="https://github.com/masoume-pasebani/sql-api">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
