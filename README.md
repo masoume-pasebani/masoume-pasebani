@@ -28,3 +28,49 @@ I hold a bachelor’s degree from Shahid Beheshti University, where I developed 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoume-pasebani&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+<h1 align="center">Hi there 👋, I'm Masoume Pasebani</h1>
+
+- 🎓 Bachelor's in Computer Engineering from Shahid Beheshti University  
+- 💻 Backend Developer (Django, REST API, PostgreSQL)  
+- 🤖 AI & Machine Learning Enthusiast (ASR, NLP)  
+- 🧠 Working on Persian ASR & Tweet Emotion Detection  
+- 📫 How to reach me: masoume.email@example.com
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://github.com/masoume123/persian-asr-project">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  </a>
+  <a href="https://github.com/masoume123/django-ai-backend">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+  </a>
+  <a href="https://github.com/masoume123/sql-api">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=masoume123&show_icons=true&theme=radical" alt="Masoume's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masoume123&theme=radical" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoume123&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🚀 Fun Fact
+
+I love building intelligent systems that make real-world impact — and I enjoy every step of the backend + AI development journey!
