@@ -9,7 +9,7 @@ I hold a bachelor’s degree from Shahid Beheshti University, where I developed 
   <a href="https://github.com/masoume-pasebani/Game-design_final_project" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://github.com/masoume123/django-ai-backend" target="_blank">
+  <a href="https://github.com/masoume-pasebani/Generating-Generating-OCEL-from-CPN-files" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   </a>
   <a href="https://github.com/masoume123/sql-backend-api" target="_blank">
